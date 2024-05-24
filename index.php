@@ -20,13 +20,13 @@
 			<!-- <video src="video.webm" poster="presentacion.jpg" controls></video> -->
             <!-- Ejemplo 2 -->
             
-            <video class="desktop video" src="video/infinitos.mp4" autoplay muted loop></video>
+            <!-- <video class="desktop video" src="video/infinitos.mp4" autoplay muted loop></video>
 
             <div class="mobile">
                 <video width="90%" autoplay muted loop>
                     <source src="video/infinito.mp4" type="video/mp4" />
                 </video>    
-            </div>
+            </div> -->
             <p><strong>Infinity</strong> is a great place to <span style="font-weight: 500; font-size: 30px;">start</span></p>
            
 		</div>
